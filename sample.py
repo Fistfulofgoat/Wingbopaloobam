@@ -2,7 +2,7 @@ a = int(input("first num"))
 b = int(input("second num"))
 
 if(a>b):
-    print("a is greater than b")
+    print("a is faggy and greater than b")
 
     
 
